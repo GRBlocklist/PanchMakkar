@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: FakewaList- All
+! Title: PanchMakkar Block List
 ! Description: A blocklist for fake free browsing.
-! Homepage: https://github.io
-! Source: https://raw.githubusercontent.com/
+! Homepage: https://github.com
+! Source: https://github.com/GRBlocklist/PanchMakkar
 ! License: The Unlicense (https://unlicense.org/)
 !
 !
