@@ -57,6 +57,7 @@
 ||gulfnews.com/^
 ||hamdard.in/^
 ||harpersbazaar.com/^
+||harvardlawreview.org/^
 ||hemkuntfoundation.com/^
 ||HealthCheck.in/^
 ||hindusforhumanrights.org/^
@@ -138,6 +139,7 @@
 ||thequint.com/^
 ||thewire.in/^
 ||thirdi.org/^
+||tiss.edu/^
 ||trikone.org/^
 ||tribune.com.pk/^
 ||trtworld.com/^
