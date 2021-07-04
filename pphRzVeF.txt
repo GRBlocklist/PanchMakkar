@@ -15,11 +15,13 @@
 ||aljazeera.com/^
 ||altnews.in/^
 ||americankahani.com/^
+||amnesty.org/^
 ||amnesty.org.in/^
 ||anahad.ngo/^
 ||araborganizing.org/^
 ||article-14.com/^
 ||asata.org/^
+||asso-sherpa.org/^
 ||atheistrepublic.com/^
 ||bagittoday.com/^
 ||bbc.com/^
@@ -41,6 +43,7 @@
 ||deccanchronicle.com/^
 ||dawn.com/^
 ||designtoday.in/^
+||dhiyares.com/^
 ||earshot.in/^
 ||ektaonline.org/^
 ||epw.in/^
@@ -101,6 +104,7 @@
 ||nytimes.com/^
 ||oic-oci.org/^
 ||onlinevolunteers.org/^
+||opensocietyfoundations.org/^
 ||opindia.com/^
 ||paranjoy.in/^
 ||pakpacusa.org/^
@@ -125,6 +129,8 @@
 ||shethepeople.tv/^
 ||shethepeople.org/^
 ||siasat.com/^
+||sigrid-rausing-trust.org/^
+||southallblacksisters.org.uk/^
 ||spaandanb.org/^
 ||stopfundinghate.org/^
 ||sunpure.in/^
