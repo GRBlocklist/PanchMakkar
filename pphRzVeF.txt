@@ -117,6 +117,7 @@
 ||rebellion.global/^
 ||religionnews.com/^
 ||restofworld.org/^
+||rsf.org/^
 ||ruralindiaonline.org/^
 ||rutgers.edu/^
 ||sabrang.com/^
