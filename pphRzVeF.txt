@@ -26,6 +26,7 @@
 ||bagittoday.com/^
 ||bbc.com/^
 ||bengali.net/^
+||bloomberg.com/^
 ||bloombergquint.com/^
 ||boomlive.in/^
 ||brownandgreen.org/^
@@ -35,6 +36,7 @@
 ||caravanmagazine.in/^
 ||carwale.com/^
 ||clarionindia.net/^
+||cobrapost.com/^
 ||cnn.com/^
 ||coastaldigest.com/^
 ||cosmopolitan.in/^
@@ -44,6 +46,7 @@
 ||dawn.com/^
 ||designtoday.in/^
 ||dhiyares.com/^
+||digipubindia.in/^
 ||earshot.in/^
 ||ektaonline.org/^
 ||epw.in/^
@@ -70,6 +73,7 @@
 ||Himalayawellness.com/^
 ||himalayawellness.eu/^
 ||huffingtonpost.in/^
+||hwnews.in/^
 ||iamc.com/^
 ||isgh.org/^
 ||icna.org/^
@@ -89,6 +93,7 @@
 ||livemint.com/^
 ||makaam.in/^
 ||maktoobmedia.com/^
+||mdif.org/^
 ||menafn.com/^
 ||millenniumpost.in/^
 ||milligazette.com/^
@@ -103,6 +108,7 @@
 ||nsm.org.in/^
 ||nytimes.com/^
 ||oic-oci.org/^
+||omidyar.com/^
 ||onlinevolunteers.org/^
 ||opensocietyfoundations.org/^
 ||opindia.com/^
@@ -142,6 +148,7 @@
 ||theindianawaaz.com/^
 ||theleaflet.in/^
 ||thenation.com/^
+||thenewsminute.com/^
 ||theprint.in/^
 ||thequint.com/^
 ||thewire.in/^
