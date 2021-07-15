@@ -57,6 +57,7 @@
 ||fenton.com/^
 ||foil.org/^
 ||freedomhouse.org/^
+||freshtohome.com/^
 ||friendsofkashmir.gr/^
 ||friendsofsouthasia.org/^
 ||georgetown.edu/^
@@ -90,6 +91,7 @@
 ||khalsaaid.org/^
 ||kisaani.co/^
 ||livelaw.in/^
+||licious.in/^
 ||livemint.com/^
 ||makaam.in/^
 ||maktoobmedia.com/^
