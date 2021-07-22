@@ -10,10 +10,14 @@
 ||aacm.org/^
 ||aa.com.tr/^
 ||aacre.org/^
+||act1219.org/^
+||aim-america.org/^
 ||appna.org/^
 ||aajtak.in/^
 ||aljazeera.com/^
 ||altnews.in/^
+||ambedkarinternationalcenter.org/^
+||americanmusliminstitution.org/^
 ||americankahani.com/^
 ||amnesty.org/^
 ||amnesty.org.in/^
@@ -33,8 +37,10 @@
 ||brut.media/^
 ||businesstoday.in/^
 ||caasf.org/^
+||cair.com/^
 ||caravanmagazine.in/^
 ||carwale.com/^
+||cdfcambodia.net/^
 ||clarionindia.net/^
 ||cobrapost.com/^
 ||cnn.com/^
@@ -47,6 +53,7 @@
 ||designtoday.in/^
 ||dhiyares.com/^
 ||digipubindia.in/^
+||diverseeducation.com/^
 ||earshot.in/^
 ||ektaonline.org/^
 ||epw.in/^
@@ -62,6 +69,7 @@
 ||friendsofkashmir.gr/^
 ||friendsofsouthasia.org/^
 ||georgetown.edu/^
+||gspann.com/^
 ||gulfnews.com/^
 ||hamdard.in/^
 ||harpersbazaar.com/^
@@ -88,6 +96,8 @@
 ||insaf.net/^
 ||internetfreedom.in/^
 ||intoday.in/^
+||justiceandeducationfund.com/^
+||justiceforall.org/^
 ||jmi.ac.in/^
 ||khalsaaid.org/^
 ||kisaani.co/^
@@ -118,6 +128,7 @@
 ||paranjoy.in/^
 ||pakpacusa.org/^
 ||planevanilla.com/^
+||pluralism.ca/^
 ||policharcha.com/^
 ||prospect.org/^
 ||proxsa.org/^
@@ -133,6 +144,7 @@
 ||sabrang.com/^
 ||sabrangindia.in/^
 ||savingpunjab.org/^
+||scientology.org/^
 ||scmp.com/^
 ||scroll.in/^
 ||sfchronicle.com/^
@@ -154,6 +166,7 @@
 ||thenation.com/^
 ||thenewsminute.com/^
 ||theprint.in/^
+||thetricontinental.org/^
 ||thequint.com/^
 ||thewire.in/^
 ||thirdi.org/^
@@ -165,4 +178,6 @@
 ||twocircles.net/^
 ||vice.com/^
 ||washingtonpost.com/^
+||wikipedia.org/^
 ||wired.com/^
+||wnyc.org/^
